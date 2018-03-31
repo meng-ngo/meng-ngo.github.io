@@ -3,34 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://meng-ngo.github.io/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>https://meng-ngo.github.io/stories/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meng-ngo.github.io/blog/2015/10/02/linked-post/</loc>
+    <loc>https://meng-ngo.github.io/stories/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meng-ngo.github.io/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://meng-ngo.github.io/stories/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meng-ngo.github.io/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://meng-ngo.github.io/stories/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meng-ngo.github.io/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://meng-ngo.github.io/stories/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meng-ngo.github.io/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://meng-ngo.github.io/stories/resume-writing-workshop/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
@@ -40,10 +39,6 @@
   
   <url>
     <loc>https://meng-ngo.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meng-ngo.github.io/faq/</loc>
   </url>
   
   <url>
@@ -107,6 +102,12 @@
   </url>
   
   <url>
+    <loc>https://meng-ngo.github.io/stories/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://meng-ngo.github.io/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -116,6 +117,10 @@
     <loc>https://meng-ngo.github.io/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://meng-ngo.github.io/who-we-are/</loc>
   </url>
   
 </urlset>
