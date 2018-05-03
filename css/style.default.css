@@ -1153,11 +1153,11 @@ fieldset[disabled] .btn-template-primary.active {
 
 }
 
-/* @media (min-width: 1500px) {
+@media (min-width: 1200px) {
   .home-carousel {
     height: 600px;
   }
-} */
+}
 
 .home-carousel .dark-mask {
   position: absolute;
